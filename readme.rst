@@ -63,7 +63,3 @@ password: abc123
 username: nawjeshbd@gmail.com
 password: abc123
 
-
-**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
-
-Visit Urls : http://www.fiverr.com/s2/0e44853c56
