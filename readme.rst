@@ -1,10 +1,6 @@
 ###################
-madpharma-pharmacy management system
-###################
-
-**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
-
-Visit Urls : http://www.fiverr.com/s2/0e44853c56
+pharmacy management system
+##################
 
 *******************
 summary
